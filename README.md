@@ -9,3 +9,8 @@
 ```Pip install
   pip install django
 ```
+Admin accnt:
+```dets
+  u:admin
+  pw:!Morretti!
+```
