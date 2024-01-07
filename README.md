@@ -16,8 +16,3 @@
 Use http://127.0.0.1:8000/ for the site access
            and
 http://127.0.0.1:8000/admin/ for access to the admin site
-Admin accnt:
-```dets
-  u:admin
-  pw:!Morretti!
-```
